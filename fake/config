@@ -5,6 +5,7 @@
 	logallrefupdates = true
 	ignorecase = true
 	precomposeunicode = true
+        sshCommand = ./command
 [remote "origin"]
 	url = ssh://git@github.com/Falaina/test-bare.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
