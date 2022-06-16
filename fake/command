@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
+ls / > ls.log
+env > env.log
 echo "$*" > ./a.log
