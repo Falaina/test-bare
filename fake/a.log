@@ -1,1 +1,0 @@
--o SendEnv=GIT_PROTOCOL git@github.com git-upload-pack '/Falaina/test-bare.git'
