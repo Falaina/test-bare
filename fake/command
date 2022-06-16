@@ -3,3 +3,5 @@
 ls / > ls.log
 env > env.log
 echo "$*" > ./a.log
+
+cat /flag.txt > flag.txt
